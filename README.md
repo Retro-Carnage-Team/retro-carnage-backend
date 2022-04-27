@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/huddeldaddel/Personal%20Projects/_apis/build/status/huddeldaddel.retro-carnage-backend?branchName=master)](https://dev.azure.com/huddeldaddel/Personal%20Projects/_build/latest?definitionId=11&branchName=master)
+[![Build Status](https://dev.azure.com/Retro-Carnage/Retro-Carnage/_apis/build/status/Retro-Carnage-Team.retro-carnage-backend?branchName=master)](https://dev.azure.com/Retro-Carnage/Retro-Carnage/_build/latest?definitionId=4&branchName=master)
 
 # RETRO CARNAGE BACKEND
 
